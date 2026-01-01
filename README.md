@@ -15,14 +15,6 @@
 
 ---
 
-## Currently Learning
-
-- Kubernetes & Container Orchestration  
-- Cloud-Native Development  
-- Microservices Architecture  
-
----
-
 ## Areas & Projects
 
 | Area | Projects / Links | Technologies Used |
