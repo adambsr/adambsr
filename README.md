@@ -1,19 +1,18 @@
-```markdown
 ```yaml
 name: Ahmed Adam Boussarsar
 location: Sfax, Tunisia
 role: Software Engineering Student
 linkedin: https://linkedin.com/in/ahmed-adam-boussarsar
 growth: Building full-stack applications and exploring DevOps technologies
-technical_background:
-:wrench: Full-Stack Web Development with modern frameworks
-:desktop: Backend development with .NET, Laravel, and PHP
-:art: Frontend development with Angular, Blazor, and TypeScript
-:whale: DevOps practices with Docker and Kubernetes
-currently_learning:
-:wheel_of_dharma: Kubernetes & Container Orchestration
-:cloud: Cloud Native Development
-:construction_site: Microservices Architecture
+🔧 technical_background:
+🔧 Full-Stack Web Development with modern frameworks
+🖥️ Backend development with .NET, Laravel, and PHP
+🎨 Frontend development with Angular, Blazor, and TypeScript
+🐳 DevOps practices with Docker and Kubernetes
+📚 currently_learning:
+☸️ Kubernetes & Container Orchestration
+☁️ Cloud Native Development
+🏗️ Microservices Architecture
 Area	Projects / Links	Technologies Used
 Full-Stack Development	MonResto, Event-Planner	
 <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&amp;logo=dotnet&amp;logoColor=white" alt=".NET">
@@ -31,12 +30,12 @@ DevOps & Infrastructure	—
 Databases	—	
 <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&amp;logo=microsoftsqlserver&amp;logoColor=white" alt="SQL Server">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" alt="MySQL">
-:bar_chart: GitHub Stats
+📊 GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api?username=adambsr&amp;show_icons=true&amp;theme=tokyonight" alt="GitHub Stats">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adambsr&amp;layout=compact&amp;theme=tokyonight" alt="Top Languages">
 
-:mailbox: Connect with me
+📫 Connect with me
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn">
 
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub">
